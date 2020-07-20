@@ -1,4 +1,4 @@
-# Challenge 02: Node.js Concepts
+# Challenge 01: Node.js Concepts
 
 This is an application to practice HTTP's methods with Node.js.
 
